@@ -1,6 +1,6 @@
 ---
 title: Why I Joined SBDM
-layout: post
+layout: single
 date: '2021-01-13 19:39:53 -0500'
 categories:
 - aboutme
