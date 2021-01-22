@@ -3,7 +3,7 @@ title: Why I Joined SBDM
 layout: post
 date: '2021-01-13 19:39:53 -0500'
 categories:
-- sbdm
+- aboutme
 ---
 
 "Improving  student achievement through family engagement".
