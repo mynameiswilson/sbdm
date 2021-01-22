@@ -1,5 +1,7 @@
 ---
+layout: page
 title: SBDM FAQs
+permalink: /faqs/
 ---
 
 ### What is SBDM? ### 
@@ -10,6 +12,7 @@ Here's a selection from the [Kentucky Department of Education's SBDM website](ht
 > In the 1990 legislative session, the Kentucky General Assembly passed HB 940, which is best known as the Kentucky Education Reform Act (KERA). Essentially, this piece of legislation changed the face of education in Kentucky. One drastic change that came along with KERA was [KRS 160.345](https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=48752), which outlined school-based decision making councils.
 
 > Membership of each council **includes parents, teachers, and an administrator of the school** and school councils promote shared leadership among those who are closest to the students. School councils have the responsibility to set school policy and make decisions outlined in statute, which should provide an environment to enhance student achievement. 
+
 ### What's the goal of SBDM? ### 
 First and foremost: **Provide an environment to enhance the students’ achievement**. 
 
