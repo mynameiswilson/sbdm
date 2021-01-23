@@ -97,42 +97,29 @@ author:
   avatar           : "https://benwilson.org/lib/img/ben-320.jpg"
   bio              : "LPAS SBDM Parent Representative 2020-2022"
   location         : "Louisville, KY"
-  email            : "ben@thelocust.org"
+  email            : ""
   links:
-    - label: "Email"
+    - label: "My Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:ben@thelocust.org"
-    - label: "Website"
+    - label: "LPAS SBDM Site"
       icon: "fas fa-fw fa-link"
-      url: "https://benwilson.org"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/mynameiswilson"
-    - label: "Facebook"
+      url: "http://lincoln.jefferson.kyschools.us/groups/14915/site_based_decision_making_council_sbdm/sbdm"
+    - label: "My Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/mynameiswilson"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/mynameiswilson"
-    - label: "Instagram"
+    - label: "My Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/mynameiswilson/"
-
+    - label: "My Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/mynameiswilson"
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://github.com/mynameiswilson"
 
 # Reading Files
 include:
