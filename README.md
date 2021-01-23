@@ -3,7 +3,11 @@ A quick Github-hosted Jekyll-powered journal, based on the [Minimal Mistakes](ht
 
 ## Minimal Mistakes ##
 [Documentation](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
+
 [Github Repo](https://github.com/mmistakes/minimal-mistakes)
 
-## How to Run ##
+## How to Run in Dev ##
 `bundle exec jekyll serve  -l -o --drafts`
+
+## TODO ##
+* Update to Google Tag Manager
