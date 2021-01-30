@@ -9,7 +9,7 @@ excerpt: "My email and statement to the JCPS School Board in opposition of the c
 
 **Note: The statement below is the opinion I have crafted for my family. It does, however, represent the majority of the feedback I am currently capable of receiving from LPAS parents, which is limited.** 
 
-In late December, JCPS revealed a plans for reopening school for in-person learning, both district-wide (entitled "A New Way Forward") and individual school plans. Read them here: https://www.jefferson.kyschools.us/planning-jcps-reopening. 
+In late December, JCPS revealed a plans for reopening school for in-person learning, both district-wide (entitled "A New Way Forward") and individual school plans. Read them here: [https://www.jefferson.kyschools.us/planning-jcps-reopening](https://www.jefferson.kyschools.us/planning-jcps-reopening). 
 
 With the vaccine rolling out and the majority of teachers being vaccinated - these plans are very close to being enacted, should the School Board choose.
 
