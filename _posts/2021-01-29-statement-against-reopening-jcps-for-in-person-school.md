@@ -7,19 +7,21 @@ categories:
 excerpt: "My email and statement to the JCPS School Board in opposition of the current JCPS plan and timeline for re-opening to in-person school."
 ---
 
-**Note: The statement below is the opinion I have crafted for my family. It represents the majority of the feedback I am currently capable of receiving from LPAS parents, which is limited.** 
+**Note: The statement below is the opinion I have crafted for my family. It does, however, represent the majority of the feedback I am currently capable of receiving from LPAS parents, which is limited.** 
 
 In late December, JCPS revealed a plans for reopening school for in-person learning, both district-wide (entitled "A New Way Forward") and individual school plans. Read them here: https://www.jefferson.kyschools.us/planning-jcps-reopening. 
 
 With the vaccine rolling out and the majority of teachers being vaccinated - these plans are very close to being enacted, should the School Board choose.
 
-And twice now, [the School Board has shown a deference to public pressure instead of science](https://wfpl.org/jefferson-county-school-board-votes-to-allow-winter-sports-to-begin/) - while freely admitting they aren't qualified to make these decisions! So please do your own due diligence, ask questions, or ask the School Board to, I don't know - trust experts?
+And twice now, [the School Board has shown a deference to public pressure instead of science](https://wfpl.org/jefferson-county-school-board-votes-to-allow-winter-sports-to-begin/) - while freely admitting they aren't qualified to make these decisions! So please do your own due diligence, ask questions, or ask the School Board to, I don't know - trust experts instead of public opinion?
 
 I want to get back to school. I want to support this plan. If the board wasn't going to do the research, someone had to. So, I dove in. 
 
-I'm not a medical expert, but luckily I happen to know a medical doctor who helped create the successful in-person protocols for a parochial school and a epidemiologist who studied the coronavirus. I asked them. 
+First, there are some School Board members who are presenting evidence and voting no. Chief among them is District 2's Chris Kolb, who has [published the research he's done and presented to the board here](https://www.kolbforschoolboard.com/research-summary-on-covid-19-sports-and-schools/). It's a must-read, largely because it's the only read I'm seeing from Board members. 
 
-Both of them have reviewed the JCPS plan against the recent CDC guidelines - and both say there are major gaps in JCPS' plan and the *community itself* don't meet the standards of safety. In JCPS' case - they can't possibly. And in Lousiville's case, they haven't.  With their critical insights and the measured opinions of a number of friends, I've crafted the email and statement below. 
+Now, I'm not a medical expert, but luckily I happen to know a couple of medical doctors with first-hand experience around COVID protocols for schools and how coronavirus spreads. One created the successful in-person protocols for a local parochial school and the other an epidemiologist who studied the coronavirus (before it was "cool"). 
+
+They are both very concerned with re-opening *right now* with *this plan*. Both of them have reviewed the JCPS plan against the recent CDC guidelines - and both say there are major gaps in JCPS' plan and the *community itself* don't meet the standards of safety. In JCPS' case - they can't possibly. And in Lousiville's case, they haven't.  With their critical insights and the measured opinions of a number of friends, I've crafted the email and statement below. 
 
 
 Below is the email and the statement I sent to the JCPS School Board members today, in opposition of reopening JCPS in-person under the current timeline and JCPS plan.
