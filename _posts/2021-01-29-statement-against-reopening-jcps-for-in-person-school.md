@@ -47,3 +47,6 @@ You can read my full statement here: [Ben Wilson - Statement on In-Person School
 > Thank you,
 
 > Ben Wilson
+
+The emails for the current JCPS School Board are here: 
+porterschoolboard@gmail.com, chris@kolbforschoolboard.com, james.craig@jefferson.kyschools.us, joseph.marshall2@jefferson.kyschools.us, lindadduncan@live.com, corrie.shull@jefferson.kyschools.us, sarah@sarah4jcps.com
