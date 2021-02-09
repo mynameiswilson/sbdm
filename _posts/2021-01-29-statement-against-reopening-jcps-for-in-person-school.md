@@ -4,6 +4,9 @@ layout: single
 date: '2021-01-29 15:58:53'
 categories:
 - statements
+tags:
+- reopening
+- covid
 excerpt: "My email and statement to the JCPS School Board in opposition of the current JCPS plan and timeline for re-opening to in-person school."
 ---
 
