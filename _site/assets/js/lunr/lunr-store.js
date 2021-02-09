@@ -18,7 +18,7 @@ var store = [{
         "teaser": null
       },{
         "title": "JCPS Reopening: The Wave is Coming",
-        "excerpt":"Here’s where I’m currently at on reopening for the remainder of this school year: I still don’t support it, right now. While we are being told that we must reopen in-person, there continues to be a lack of evidence being offered from public health and JCPS officials that we can...","categories": ["updates"],
+        "excerpt":"(UPDATE 2/8: there is a Special Board Meeting Tuesday February 9th 2021 - tomorrow! Public encouraged to offer comment via email) Here’s where I’m currently at on reopening for the remainder of this school year: I still don’t support it, right now. While we are being told that we must...","categories": ["updates"],
         "tags": ["reopening","covid"],
         "url": "/sbdm/updates/jcps-reopening-risks/",
         "teaser": null

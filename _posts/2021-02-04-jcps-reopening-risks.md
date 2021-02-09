@@ -10,11 +10,15 @@ tags:
 excerpt: "The decision on reopening will be on us, but real gaps and risks remain for teachers, families and the community as a whole. An update on where I stand, plus a recap of the contentious Feb 2nd Board meeting."
 ---
 
+*(UPDATE 2/8: there is a [Special Board Meeting Tuesday February 9th 2021 - tomorrow](https://www.jefferson.kyschools.us/calendar/event/board-education-special-meeting-5)! Public encouraged to offer comment via email)*
+
 Here's where I'm currently at on reopening for the remainder of this school year:
 
 I still don't support it, right now. 
 
-While we are being told that we must reopen in-person, there continues to be a lack of evidence being offered from public health and JCPS officials that we can safely do so. In addition, there is a lack of acknowledgement about the risks teachers and families are being asked to accept. 
+While we are being told that we must reopen in-person, there continues to be a lack of evidence being offered from public health and JCPS officials that we can safely do so. 
+
+In addition, I am seeing a disturbing there is a lack of acknowledgement about the risks teachers and families are being asked to accept. 
 
 If I had to put it into a metaphor, here it is: 
 
