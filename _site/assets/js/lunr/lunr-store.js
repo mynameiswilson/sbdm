@@ -22,4 +22,10 @@ var store = [{
         "tags": ["reopening","covid"],
         "url": "/sbdm/updates/jcps-reopening-risks/",
         "teaser": null
+      },{
+        "title": "JCPS Reopening: Updates from February 9th Plan Discussion",
+        "excerpt":"On February 9th 2021, the Jefferson County Board of Education held a special meeting - a “working session” - to present and discuss in detail JCPS’ reopening plans, and how those plans would be executed at individual schools. A recommendation from Dr. Pollio is to come next week, 2/16. The...","categories": ["updates"],
+        "tags": ["reopening","covid"],
+        "url": "/sbdm/updates/jcps-reopening-updates-from-feb-9th-meeting/",
+        "teaser": null
       }]
