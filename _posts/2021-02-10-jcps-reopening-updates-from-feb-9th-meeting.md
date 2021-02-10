@@ -10,7 +10,9 @@ tags:
 excerpt: "The February 9th Board of Education meeting was characterized in a marked shift in questions from Board member. As Chairman Diane Porter put it: 'we will need specifics to make a vote of this importance'"
 ---
 
-On February 9th 2021, the Jefferson County Board of Education held a special meeting - a "working session" - to present and discuss in detail JCPS' reopening plans, and how those plans would be executed at individual schools. *A recommendation from Dr. Pollio is to come next week, 2/16. The Board will vote at a time _after_ that day.*
+On February 9th 2021, the Jefferson County Board of Education held a special meeting - a "working session" - to present and discuss in detail JCPS' reopening plans, and how those plans would be executed at individual schools. 
+
+*A recommendation from Dr. Pollio is to come next week, 2/16. The Board will vote later. The earliest reopening date is currently March 17th, due to vaccine availibility.*
 
 In addition to the JCPS Superintendent Dr. Pollio and the sitting Board members, a laundry list of other JCPS officials including a selection of principals at all grade levels, were in attendance to present the JCPS plans, discuss their individual school plans, and to answer questions.
 
