@@ -24,7 +24,9 @@ One of Chairman Diane Porter's final statements summed it up well:
 
 "...the board deserves to have that information and have facts and figures before we are asked to make a vote that is serious as this."
 
-Three of Louisville's education reporters, Olivia Krauth from the CJ, Jess Clark from WFPL and Kevin Wheatley from WDRB were live-tweeting the meeting last night. It's a great way to catch up, if you don't have time to watch the 2 1/2 hours below:
+Three of Louisville's education reporters, Olivia Krauth from the CJ, Jess Clark from WFPL and Kevin Wheatley from WDRB were live-tweeting the meeting last night. It's a great way to catch up, if you don't have time to watch the 2 1/2 hour YouTube below:
+
+(note: click the Tweet date to see the entire Twitter thread)
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Good evening — tonight&#39;s <a href="https://twitter.com/JCPSKY?ref_src=twsrc%5Etfw">@JCPSKY</a> school board meeting is beginning. They&#39;ll hear from school leaders about reopening plans but no vote is expected on a reopening date tonight. <br><br>Watch live: <a href="https://t.co/RcQ2NaV91M">https://t.co/RcQ2NaV91M</a></p>&mdash; Olivia Krauth (@oliviakrauth) <a href="https://twitter.com/oliviakrauth/status/1359277124981514240?ref_src=twsrc%5Etfw">February 9, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -37,3 +39,9 @@ Three of Louisville's education reporters, Olivia Krauth from the CJ, Jess Clark
 As with all [JCPS Board of Education meetings](https://www.jefferson.kyschools.us/about/leadership/board-education) - they are streamed on YouTube, and archived. 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/wVKxvlzHx5A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+I also did a bit of live-tweeting to capture my reactions. You can see this here:
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I&#39;m watching the <a href="https://twitter.com/JCPSKY?ref_src=twsrc%5Etfw">@JCPSKY</a> Board of Ed meeting on detailed reopening plans. Thoughts below in thread 1/</p>&mdash; Ben Wilson (@mynameiswilson) <a href="https://twitter.com/mynameiswilson/status/1359285913130532865?ref_src=twsrc%5Etfw">February 9, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Finally: [The Daily from the New York Times today is focused on "What Will It Take To Reopen Schools?"](https://www.nytimes.com/2021/02/10/podcasts/the-daily/school-reopening-teachers-unions-biden.html) - and the parallels to Louisville are again, striking. In many ways - we are actually ahead of the curve, compared to places like Chicago. So... we've got that going for us.
