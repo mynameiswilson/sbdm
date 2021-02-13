@@ -28,4 +28,10 @@ var store = [{
         "tags": ["reopening","covid"],
         "url": "/sbdm/updates/jcps-reopening-updates-from-feb-9th-meeting/",
         "teaser": null
+      },{
+        "title": "JCPS Reopening: CDC Guidelines and NYT Disease Expert Survey Bring Much Needed Leadership and Clarity",
+        "excerpt":"Things changed for me yesterday. The CDC’s “comprehensive science-based plan” for school reopening, and a New York Times survey of 175 pediatric disease specialists regarding what is important for reopening. Both strongly indicate that we can and should reopen schools, and they do so from a place of science and...","categories": ["updates"],
+        "tags": ["reopening","covid"],
+        "url": "/sbdm/updates/jcps-reopening-cdc-guidelines-nyt-survey/",
+        "teaser": null
       }]

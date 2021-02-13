@@ -29,7 +29,7 @@ They are both very concerned with re-opening *right now* with *this plan*. Both 
 
 Below is the email and the statement I sent to the JCPS School Board members today, in opposition of reopening JCPS in-person under the current timeline and JCPS plan.
 
-You can read my full statement here: [Ben Wilson - Statement on In-Person School Plan 2021.01.29]({{ 'Ben Wilson - Statement on In-Person School Plan (2020.01.29).pdf' | relative_url }})
+You can read my full statement here: [Ben Wilson - Statement on In-Person School Plan 2021.01.29]({{ 'assets/Ben Wilson - Statement on In-Person School Plan (2020.01.29).pdf' | relative_url }})
 
 > Greetings -
 
