@@ -29,11 +29,13 @@ Notable points:
 - Vaccines for teachers (or students) are not considered critical by the guidelines or the disease experts.
 - Community infection rate is not as high a priority as previously considered.
 
-A clear definition of priority and risk assessment which up until now has been swirling around at every level (personal, local, state, federal) has been greatly settled with these two things, for me.
+For me, these clear definitions of priority and risk assessments largely settle the arguments swirling around at every level (personal, local, state, federal).
+
+(Note: Some [experts](https://twitter.com/monicagandhi9/status/1360678712010678273?s=21), [including the senior author of the Wisconsin schools study](https://twitter.com/katetaylornyt/status/1360325042014404611?s=21) believes the CDCs guidelines are _too restrictive_. Their criticisms appear to align with the results of the survey.)
 
 Regarding JCPS - vaccination of teachers and community infection rates are two things that have been widely adopted as critcal by local officials, unions and parent groups. This is clear guidance that - at a community level - they are not as critical to "safely reopening".
 
-## I feel confident in their assessment that at a community level reopening can be done safely. But... ##
+### I feel confident in their assessment that at a community level reopening can be done safely. But... ###
 
 But... neither the CDC guidelines nor this survey relieve JCPS from the challenges that their plan will continue to have with social distancing, or the concerns from individual teachers and families. I do feel that these guidelines and reports provide clearer priorities for the critical discussions and negotiations those parties. 
 
@@ -47,6 +49,13 @@ The concerns about JCPS' ability to enforce masking (the #1 most important preve
 
 This week, JCPS Superintendent Dr. Marty Pollio is formulating his recommendation that will be provided to the JCPS Board of Education at [the next public meeting on Tuesday, February 16th at 6PM](https://www.jefferson.kyschools.us/about/leadership/board-education). Note: They will not vote that day, but at "a later date".
 
-My hope is that with this information, JCPS can mitigate the gaps in the planning and the various concerns with families and teachers to get back to in-person school. If (and it's a big IF) we can do this, the science says we can.
+While there will remain concerns, the skies are finally lightening with science and leadership.
+
+My hope is that with this information and further guidance, JCPS can mitigate the gaps in the planning and the various concerns with families and teachers to get back to in-person school. That's the work that will get us back into school. 
+
+We must not forget that there are still those that are vulnerable outside the walls of the school.
+
+With that, I am still hesistant to send my children back to school until my wife and I are vaccinated, and I am concerned for those teachers who are in the same spot. 
+
 
 
