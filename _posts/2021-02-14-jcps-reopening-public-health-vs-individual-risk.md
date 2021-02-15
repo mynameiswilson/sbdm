@@ -16,7 +16,7 @@ The teachers that I have spoken to are largely in the same boat as other JCPS fa
 
 Into this confusion and charged atmosphere comes the recently released CDC guidelines and the "growing body of evidence" that schools can be reopened safely - which is sure to swing public opinion further towards reopening.
 
-As I mentioned in my post yesterday - this information _has_ made me more confident that from a community perspective, we can safely reopen, and we should because the benefit is higher than the aggregate risks.
+As I mentioned in [my post yesterday](https://benwilson.org/sbdm/updates/jcps-reopening-cdc-guidelines-nyt-survey/) - this information _has_ made me more confident that from a community perspective, we can safely reopen, and we should because the benefit is higher than the aggregate risks.
 
 But - and this _will be the point of friction in the coming weeks_ - while the risk for the community is lower, we are transferring risks to already burdened teachers, staff and their families. 
 
