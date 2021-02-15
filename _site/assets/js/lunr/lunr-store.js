@@ -34,4 +34,10 @@ var store = [{
         "tags": ["reopening","covid"],
         "url": "/sbdm/updates/jcps-reopening-cdc-guidelines-nyt-survey/",
         "teaser": null
+      },{
+        "title": "JCPS Reopening: The New Debate of Public Health vs. Risks to Teachers and Families",
+        "excerpt":"Tuesday, February 16th, the Jefferson County Board of Education will meet to discuss the recommendation put forth by Superintendent Dr. Pollio. It’s expected that Dr. Pollio will recommend to reopen schools. The teachers that I have spoken to are largely in the same boat as other JCPS families - attempting...","categories": ["updates"],
+        "tags": ["reopening","covid"],
+        "url": "/sbdm/updates/jcps-reopening-public-health-vs-individual-risk/",
+        "teaser": null
       }]

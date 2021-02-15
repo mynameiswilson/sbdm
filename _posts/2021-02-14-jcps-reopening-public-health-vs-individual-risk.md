@@ -1,5 +1,5 @@
 ---
-title: "JCPS Reopening: Public Health vs. Individual Risk"
+title: "JCPS Reopening: The New Debate of Public Health vs. Risks to Teachers and Families"
 layout: single
 date: '2021-02-14 18:30:00'
 categories:
@@ -12,60 +12,33 @@ excerpt: ""
 
 Tuesday, February 16th, the Jefferson County Board of Education will meet to discuss the recommendation put forth by Superintendent Dr. Pollio. It's expected that Dr. Pollio will recommend to reopen schools.
 
-The teachers that I have spoken to are largely in the same boats as other JCPS families - they have not been communicated with directly regarding JCPS' plans or the plans for their own schools.
+The teachers that I have spoken to are largely in the same boat as other JCPS families - attempting to take in all of the information and make an informed risk assessment, with minimal communication or acknowledgement of concerns. Frustration and confusion among those with concerns, to say the least.
 
-Into this confusion and charged atmosphere the recently released CDC guidelines and  the "growing body of evidence" that schools can be reopened safely.
+Into this confusion and charged atmosphere comes the recently released CDC guidelines and the "growing body of evidence" that schools can be reopened safely - which is sure to swing public opinion further towards reopening.
 
+As I mentioned in my post yesterday - this information _has_ made me more confident that from a community perspective, we can safely reopen, and we should because the benefit is higher than the aggregate risks.
 
+But - and this _will be the point of friction in the coming weeks_ - while the risk for the community is lower, we are transferring risks to already burdened teachers, staff and their families. 
 
-What is also likely expected is that some teachers will have concerns about JCPS' ability to 
+We are asking teachers and staff to take on individual risks that they have been ill-informed to assess and ill-equipped to handle. Worse, from the telling nature of the questions I have heard from teach friends (especially those with at-risk family members) they have not been granted an opportunity to have their concerns addressed. 
 
-Things changed for me yesterday. The CDC's "comprehensive science-based plan" for school reopening, and a New York Times survey of 175 pediatric disease specialists regarding what is important for reopening. Both strongly indicate that we can and should reopen schools, and they do so from a place of science and concensus.
+For example: only today, [Board Member Chris Kolb shed light on concerns around teachers with at-risk family members or risk factors themselves](https://twitter.com/cmkolb/status/1361022326746329091?s=20). The CDC Guidelines suggest "temporary reassignment" for these teachers. By my accounting, JCPS' guidelines there have been unclear.
 
-While my concerns about reopening from the community's perspective is lessened with these two things - my concerns about JCPS' ability to adhere to them and the pursuant risks still present for teachers and families are not. 
+In addition to the likes of Mr. Kolb (himself not an educator by trade) there are many JCPS Board members who are educators, and they have expressed concerns similar to this. "How will social distancing be possible?" "How will it be enforced?" "What is the risk of taking COVID home to my family?" "What are the quarantine protocols?"
 
-With clarity from leadership and science present, the work to close the gaps and address family issues is much clearer.
+The teachers I know are invested and involved, so I doubt seriously that this is merely teachers "not paying attention". Given the lack of detailed communication from JCPS to families, I tend to assume this is the case for both parties.
 
-- NPR: [CDC Offers Clearest Guidance Yet For Reopening Schools](https://www.npr.org/2021/02/12/967033554/cdc-offers-clearest-guidance-yet-for-reopening-schools)
+I suspect this is going to be a very contentious, fast-moving few weeks if the recommendation to reopen comes down. I honestly don't know how the Board will vote - but from recent responses from Board members and the new guidelines - I suspect they'll pass it with reservations.
 
-- NYT:[We Asked 175 Pediatric Disease Experts if It Was Safe Enough to Open School](https://www.nytimes.com/2021/02/11/upshot/schools-reopening-coronavirus-experts.html?referringSource=articleShare) _I've also uploaded a [PDF Version]({{ 'assets/We Asked 175 Pediatric Disease Experts if It Was Safe Enough to Open School - The New York Times.pdf' | relative_url }})_
+This will leave JCPS steaming towards reopening (as early as March 17th), with concerned teachers and their union standing in the way.
 
-The CDC guidelines are similar to those in the past, but with notable revelations. The survey, conducted prior to the release of the guidelines, echo the guidelines. The two together provide for me two things lacking from prior conversation: science-based priorities and critical risk assessment. 
+This is an unfortunately contentious position for teachers. It will likely elicit responses from the public akin to "take one for the team, like other frontline workers". But, as a friend put it - "while teacher's unions are in the spotlight right now, it is only because unions have been decimated in other sectors ... front-line retail, grocery, restaurant, and other service industry workers haven't forced a work stoppage on a national scale" - not because they don't have concerns, but because they don't have the leverage.
 
-Notable points:
-- 86% of the experts polled feel that safely reopening schools **with masking and social distancing** is not only possible, it's advised. 
-- _"Although these experts specialized in children’s physical health, many concluded that the risks to mental health, social skills and education outweighed the risks of the virus."_
-- Masks and social distancing ranked clear #1 and #2 most critical efforts to be made.
-- Vaccines for teachers (or students) are not considered critical by the guidelines or the disease experts.
-- Community infection rate is not as high a priority as previously considered.
+Teachers, however, do. 
 
-For me, these clear definitions of priority and risk assessments largely settle the arguments swirling around at every level (personal, local, state, federal).
+If there is a public fight over reopening, it won't be the teachers' fault. They have real, legitimate concerns, and have been classically underpayed and overburdened. It's a conversation and a negotiation that should have happened many, many months ago. Ultimately, it's a conversation that unless addressed now, will rear its head at a later date.
 
-(Note: Some [experts](https://twitter.com/monicagandhi9/status/1360678712010678273?s=21), [including the senior author of the Wisconsin schools study](https://twitter.com/katetaylornyt/status/1360325042014404611?s=21) believes the CDCs guidelines are _too restrictive_. Their criticisms appear to align with the results of the survey.)
-
-Regarding JCPS - vaccination of teachers and community infection rates are two things that have been widely adopted as critcal by local officials, unions and parent groups. This is clear guidance that - at a community level - they are not as critical to "safely reopening".
-
-### I feel confident in their assessment that at a community level reopening can be done safely. But... ###
-
-But... neither the CDC guidelines nor this survey relieve JCPS from the challenges that their plan will continue to have with social distancing, or the concerns from individual teachers and families. I do feel that these guidelines and reports provide clearer priorities for the critical discussions and negotiations those parties. 
-
-As the survey report highlighted: _“Just because school opening isn’t causing higher levels of community transmission doesn’t mean that there isn’t individual risk to teachers and staff"_. 
-
-Personally, I have been at near-zero risk for contracting or spreading the disease for nearly a year having had the privlege of working from home and doing everything I can to not catch or spread the virus. With school reopening, the risk to my family - especially if JCPS cannot mitigate the gaps in their planning - essentially triples. 
-
-For teachers with families, many of whom who have been at home like me, this increase in risk is even higher, and so far without much acknowledgement (or compensation).
-
-The concerns about JCPS' ability to enforce masking (the #1 most important prevention factor) and social distancing (#2) are still here, and are very real. As the NPR article mentions: _"mask use dropped precipitously elsewhere, from just 42% on school buses and 40% in restrooms to 36% in the cafeteria"_.
-
-This week, JCPS Superintendent Dr. Marty Pollio is formulating his recommendation that will be provided to the JCPS Board of Education at [the next public meeting on Tuesday, February 16th at 6PM](https://www.jefferson.kyschools.us/about/leadership/board-education). Note: They will not vote that day, but at "a later date".
-
-While there will remain concerns, the skies are finally lightening with science and leadership.
-
-My hope is that with this information and further guidance, JCPS can mitigate the gaps in the planning and the various concerns with families and teachers to get back to in-person school. That's the work that will get us back into school. 
-
-We must not forget that there are still those that are vulnerable outside the walls of the school.
-
-With that, I am still hesistant to send my children back to school until my wife and I are vaccinated, and I am concerned for those teachers who are in the same spot. 
+And if you value educators, I'd suggest considering their concerns and the burdens we are (as a community) asking them to take (without a change in compensation).
 
 
 
