@@ -1,13 +1,13 @@
 var store = [{
         "title": "Why I Joined SBDM",
         "excerpt":"“Improving student achievement through family engagement. ALL families”. That’s why. You can stop reading now if you are short on time! I figure all goals should be brief like a mantra. Above is mine for anything I do for LPAS. Volunteering in class, tutoring, helping with events, working on community...","categories": ["aboutme"],
-        "tags": [],
+        "tags": ["sbdm"],
         "url": "/sbdm/aboutme/why-i-joined-sbdm/",
         "teaser": null
       },{
         "title": "Meeting Notes: January 19, 2021",
         "excerpt":"Hello LPAS Families and Friends! Below are my notes from the January 19th 2021 LPAS SBDM meeting. Note: I’m one of two parent reprensentatives, so my notes are slanted towards parent/family topics. As far as notes go, they are probably incomplete, and are definitely not “official”. Official agendas and approved...","categories": ["meetingnotes"],
-        "tags": [],
+        "tags": ["sbdm"],
         "url": "/sbdm/meetingnotes/jan-19-2021-notes/",
         "teaser": null
       },{
@@ -39,5 +39,11 @@ var store = [{
         "excerpt":"Tuesday, February 16th, the Jefferson County Board of Education will meet to discuss the recommendation put forth by Superintendent Dr. Pollio. It’s expected that Dr. Pollio will recommend to reopen schools. The teachers that I have spoken to are largely in the same boat as other JCPS families - attempting...","categories": ["updates"],
         "tags": ["reopening","covid"],
         "url": "/sbdm/updates/jcps-reopening-public-health-vs-individual-risk/",
+        "teaser": null
+      },{
+        "title": "SBDM Meeting Notes: February 16, 2021",
+        "excerpt":"Hello LPAS Families and Friends! Below are my notes from the February 16th 2021 LPAS SBDM meeting. Note: I’m one of two parent reprensentatives, so my notes are slanted towards parent/family topics. As far as notes go, they are probably incomplete, and are definitely not “official”. Official agendas and approved...","categories": ["meetingnotes"],
+        "tags": ["sbdm"],
+        "url": "/sbdm/meetingnotes/feb-16-2021-notes/",
         "teaser": null
       }]
