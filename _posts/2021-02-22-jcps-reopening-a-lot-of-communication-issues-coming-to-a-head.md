@@ -14,9 +14,13 @@ It's February 23rd, and we are still awaiting a recommendation from Superintende
 
 One might assume that with new CDC guidelines, the weight of the Presidency and vaccines behind reopening, this would be a slam-dunk, right? No.
 
-It should have been, except that JCPS has failed until just recently to substantively listen to it's two main bodies: the teachers and the families of students. Both of which have real concerns that JCPS has been at best ignorant of or at worst ignoring for weeks if not months. 
+It should have been, except that JCPS has failed until just recently to substantively listen to it's two main bodies: the teachers and the families of students. It's possible they have been listening and just not said anything - but that doesn't explain the sudden about-face on a vote on reopening. What does explain it is the tide of feedback from teachers and families (in addition to the newly released CDC guidance) swamping JCPS' rushed attempt to reopen schools in person. 
 
-Regardless of the reason, the dam broke recently the resulting tides from teachers, families, and newly released CDC guidance swamped JCPS' rushed attempt to reopen schools in person. There is not currently a date set for reopening or a vote by the board to reopen.
+So now, there is not currently a date set for reopening or a vote by the board to reopen. 
+
+We do, however, have another [JCPS Board "Working Session" with medical experts to discuss CDC Guidelines tomorrow, February 23rd at 6PM on YouTube](https://www.youtube.com/channel/UCJCC8xo7s9vxfFZiV5ZoocQ)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">INBOX: The Jefferson County Board of Ed is meeting tomorrow night to discuss the reopening plan and the newest CDC guidelines with a group of medical professionals.<br><br>There will NOT be a vote tomorrow.</p>&mdash; Jess Clark (@jess_m_clark) <a href="https://twitter.com/jess_m_clark/status/1363967240236843012?ref_src=twsrc%5Etfw">February 22, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 The Jefferson County Teacher's Associaton (JCTA) survey that was delivered Friday, February 12th, days before Dr. Pollio's anticipated recommendation to reopen schools. After weeks of near-zero communication between JCPS and teachers, JCPS got an earful. 58% of teacheers said "no" to returning. There were "400 pages" of comment attached, according to the CJ's Olivia Krauth. These concerns ran the gambit from student safety to the safety of teachers' families at home, to employment and school function concerns. By the following Monday, [JCPS and JCTA had struck a deal on reopening](https://www.wdrb.com/in-depth/jcps-teachers-union-strike-deal-on-classroom-reopening-strategy/article_18ea7332-6fc8-11eb-8924-37b38f763427.html). The recommendation was put off indefinitely.
 
