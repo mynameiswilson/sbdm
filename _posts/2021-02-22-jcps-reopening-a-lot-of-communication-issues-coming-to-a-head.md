@@ -1,5 +1,5 @@
 ---
-title: "JCPS Reopening: A Lot of Communication Issues Coming to a Head"
+title: "JCPS Reopening: A Lot of Communication Issues Coming to a Head, No Vote In Sight Yet"
 layout: single
 date: '2021-02-22 23:30:00'
 categories:
