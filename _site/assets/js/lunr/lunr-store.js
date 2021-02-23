@@ -46,4 +46,10 @@ var store = [{
         "tags": ["sbdm"],
         "url": "/sbdm/meetingnotes/feb-16-2021-notes/",
         "teaser": null
+      },{
+        "title": "JCPS Reopening: A Lot of Communication Issues Coming to a Head",
+        "excerpt":"It’s February 23rd, and we are still awaiting a recommendation from Superintendent Dr. Pollio on reopening JCPS to in-person schooling. What seemed like an inevitability only a couple of weeks ago now appears to have been stopped in its tracks. One might assume that with new CDC guidelines, the weight...","categories": ["updates"],
+        "tags": ["reopening","covid"],
+        "url": "/sbdm/updates/jcps-reopening-a-lot-of-communication-issues-coming-to-a-head/",
+        "teaser": null
       }]
