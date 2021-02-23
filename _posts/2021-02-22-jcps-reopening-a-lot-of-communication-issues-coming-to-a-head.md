@@ -44,9 +44,11 @@ In addition, [some JCPS teachers are struggling to scheddule vaccine booster sho
 
 Which leaves us here - only 3 months to the end of the regular school year. Charitably, we could get elementary and middle schools back in late March, leaving two months, less Spring Break. Middle and high schools would operate on a hybrid schedule of remote and in-person school, meaning even fewer "in person" days for them. 
 
-Oh, and the US Department of Education wants schools to complete standardized testing.
+And the US Department of Education wants schools to complete standardized testing:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">This could mean Kentucky&#39;s largest district will spend a significant portion of its few potential in-person instruction days proctoring standardized tests. <a href="https://t.co/bF7r2F0tAA">https://t.co/bF7r2F0tAA</a></p>&mdash; Olivia Krauth (@oliviakrauth) <a href="https://twitter.com/oliviakrauth/status/1364000176650747904?ref_src=twsrc%5Etfw">February 22, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+My two students won't be returning to school in-person this year largely because I don't believe that JCPS can effectively mitigate the spread of COVID through social distancing, but also because I don't believe that ([and haven't believed](https://benwilson.org/sbdm/statements/statement-against-reopening-jcps-for-in-person-school/)) that reopening for this short amount of time is worth the massive effort and disruption required. Let's get people vaccinated and then reopen with quality in the fall.
 
 Other required reading:
 [WFPL: JCPS’ Reopening Plan: What You Need To Know](https://wfpl.org/jcps-reopening-plan-what-you-need-to-know/)
