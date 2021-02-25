@@ -12,7 +12,11 @@ excerpt: "A massive effort, considerable disruption, unknown risk all for little
 
 After blistering few weeks of back and forth between teachers, families, unions, the Board and JCPS, the JCPS Board of Education is meeting tonight to vote on JCPS Superintendent Dr. Marty Pollio's recommendation to reopen schools. [Click here for details and a link to watch](https://www.jefferson.kyschools.us/calendar/event/special-meeting-board-education-20).
 
-In the last few weeks the following has happened that has led us here:
+I'll be watching tonight. One of the best ways to follow along in detail is with my [JCPS School Board & Media Twitter List](https://twitter.com/i/lists/1354430425242988549?s=20)
+
+But before I do, I wanted to make note of the last few weeks of developments, and put down on paper how my thoughts have changed.
+
+Here's what has happened over the last few weeks:
 
 * The Board and its members have ramped up quickly to get a handle around JCPS' plan and the current science and guidelines. Researching, asking for public comment and scheduling repeated public Q&A and working sessions.
 * The CDC released new guidelines, the President and Governor Beshear are pushing for schools to reopen
