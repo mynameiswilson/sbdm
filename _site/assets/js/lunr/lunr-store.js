@@ -52,4 +52,10 @@ var store = [{
         "tags": ["reopening","covid"],
         "url": "/sbdm/updates/jcps-reopening-a-lot-of-communication-issues-coming-to-a-head/",
         "teaser": null
+      },{
+        "title": "JCPS Reopening: On the Eve of the Vote, I Still Can't Support It",
+        "excerpt":"After blistering few weeks of back and forth between teachers, families, unions, the Board and JCPS, the JCPS Board of Education is meeting tonight to vote on JCPS Superintendent Dr. Marty Pollio’s recommendation to reopen schools. Click here for details and a link to watch. In the last few weeks...","categories": ["updates"],
+        "tags": ["reopening","covid"],
+        "url": "/sbdm/updates/jcps-reopening-on-the-eve-of-the-vote/",
+        "teaser": null
       }]
