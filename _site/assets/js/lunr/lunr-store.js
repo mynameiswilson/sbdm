@@ -58,4 +58,10 @@ var store = [{
         "tags": ["reopening","covid"],
         "url": "/sbdm/updates/jcps-reopening-on-the-eve-of-the-vote/",
         "teaser": null
+      },{
+        "title": "JCPS Reopening: Things Have Changed",
+        "excerpt":"After a pandemic year that seemed 10 years long, things have dramatically changed since I last wrote about reopening JCPS ahead of the JCPS Board of Education vote February 26th. So much so that we’ve decided that our JCPS students are going back to school, in-person, starting Thursday. This is...","categories": ["updates"],
+        "tags": ["reopening","covid"],
+        "url": "/sbdm/updates/jcps-reopening-things-have-changed/",
+        "teaser": null
       }]
