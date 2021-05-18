@@ -64,4 +64,16 @@ var store = [{
         "tags": ["reopening","covid"],
         "url": "/sbdm/updates/jcps-reopening-things-have-changed/",
         "teaser": null
+      },{
+        "title": "SBDM Meeting Notes: March 16, 2021",
+        "excerpt":"Hello LPAS Families and Friends! Below are my notes from the March 16th 2021 LPAS SBDM meeting. Note: I’m one of two parent reprensentatives, so my notes are slanted towards parent/family topics. As far as notes go, they are probably incomplete, and are definitely not “official”. Official agendas and approved...","categories": ["meetingnotes"],
+        "tags": ["sbdm"],
+        "url": "/sbdm/meetingnotes/mar-16-notes/",
+        "teaser": null
+      },{
+        "title": "SBDM Meeting Notes: April 20, 2021",
+        "excerpt":"Hello LPAS Families and Friends! Below are my notes from the February 16th 2021 LPAS SBDM meeting. Note: I’m one of two parent reprensentatives, so my notes are slanted towards parent/family topics. As far as notes go, they are probably incomplete, and are definitely not “official”. Official agendas and approved...","categories": ["meetingnotes"],
+        "tags": ["sbdm"],
+        "url": "/sbdm/meetingnotes/apr-20-notes/",
+        "teaser": null
       }]
