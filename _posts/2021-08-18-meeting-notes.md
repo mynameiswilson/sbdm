@@ -19,7 +19,7 @@ Hello LPAS Families and Friends! Below are my notes from the August 17th 2021 LP
 - Back in the school. "Everything feels sustainable" - Ms. Case
 - Back to School Bash outside was a success. A number of families have never seen the inside of the school, which is sad, but we'll make due.
 - With only two weeks to implement Safe at School policies, Ms. Case is happy to report that students are following procedures and that teachers have done a great job getting ready.
-- Welcome Tina Marstettler - our new Assistant Principal!
+- Welcome Tina Marsteller - our new Assistant Principal!
 
 ### Committee Reports ###
 
