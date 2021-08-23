@@ -31,7 +31,9 @@ In my current roles as parent rep and coach, I have been focused on representing
 - Ensuring open access to elections or leadership roles
 - Outreach beyond our "friend networks"  
 
-Diverse engagement is real work and a goal that you will never perfectly achieve - but I believe that LPAS' incredibly diverse, incredibly committed community is what makes it special. When the community works, we do amazing things for our students.
+As a practical example - it is only online meetings and the flexibility of my employer that have allowed me to be present in meetings and serve on councils that meet during my 9-to-5 workday. I was not able to do this effectively prior to the adoption of these tools and a focus on accessible technology.
+
+Diverse engagement and access is real work and a goal that you will never perfectly achieve - but I believe that LPAS' incredibly diverse, incredibly committed community is what makes it special. When the community works, we do amazing things for our students.
 
 I would encourage the PTA board, members and families to consider this, and think differently to affect change, using the practical notes above. 
 
