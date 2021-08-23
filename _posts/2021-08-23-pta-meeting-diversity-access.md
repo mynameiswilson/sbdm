@@ -9,7 +9,14 @@ tags:
 - sbdm
 excerpt: "Prior to the SBDM elections in September, I wanted to address the need for equitable access to parent groups and their leadership within our school"
 ---
-Here are my remarks to the LPAS PTA, during the August 23rd, 2021 PTA Board Meeting, regarding equitable access to parent groups.
+
+I made some remarks to the LPAS PTA today regarding encouraging access and diverse representation within school groups like the SBDM and PTA  - which I think we need to work on, given the makeup of the groups I've seen at LPAS so far.
+
+Frankly speaking, PTAs and school council leadership are often lopsided representations of the communities they represent. Too white, too female, too affluent, people who cannot spare the time to travel, etc. I believe the leadership of these groups need to craft policies, procedures to encourage involvement by those NOT represented in their ranks. That's the goal. 
+
+Work on it!  Here's some notes on what I've seen be successful PLUS a note about the upcoming SBDM Parent Representative elections.
+
+===
 
 Thank you all for having me - and thank you all for your time and hard work for our students.
 
