@@ -17,7 +17,7 @@ My name is Ben Wilson. I'm a father of two LPAS students, one former, one curren
 
 I wanted to bring a topic to the PTA Board and membership today that I feel strongly about and - in my own limited way - have tried to promote through my volunteer work at LPAS: diverse access and engagement.
 
-1. Diversity + Access to Parent Organizations
+### Rethinking Diversity + Access to Parent Organizations ###
 First, I want to take a moment to encourage all parent-represented organizations (small and large) to consider new ways in which they can better represent our increasingly diverse LPAS community. Diversity includes race, but goes well beyond it in a JCPS school to include geographic, socio-economic, gender, access to transportation, etc.
 
 As a magnet, we have a special community - and we are especially diverse by design - pulling committed, passionate families from all over the country. However, I believe our elected councils - both SBDM and PTA - and other teams & groups have work to do to represent the diversity in our community.
@@ -35,8 +35,8 @@ Diverse engagement is real work and a goal that you will never perfectly achieve
 
 I would encourage the PTA board, members and families to consider this, and think differently to affect change, using the practical notes above. 
 
-2. SBDM Elections
-The SBDM is one of the most important bodies in a local school. We choose principals, advise on hiring of other positions, set school policies and approve budgets. This year, the PTA will help to elect a new two-year parent representative position.
+### SBDM Elections ###
+SBDM Elections are coming up in September! The SBDM is one of the most important bodies in a local school. We choose principals, advise on hiring of other positions, set school policies and approve budgets. This year, the PTA will help to elect a new two-year parent representative position.
 
 Per LPAS' policy, the PTA organizes the elections for parent representatives on the SBDM. In the past, these elections were required by the KY Dept of Ed to take place in-person. At LPAS, these elections were held during a one-time after-school function like the Open House.
 
