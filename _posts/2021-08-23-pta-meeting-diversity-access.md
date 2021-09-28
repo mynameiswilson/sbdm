@@ -3,7 +3,7 @@ title: "My remarks on diversity and access to the LPAS PTA (8/23/2021)"
 layout: single
 date: '2021-08-23 13:00:53'
 categories:
-- meetingnotes
+- statements
 tags:
 - pta
 - sbdm
