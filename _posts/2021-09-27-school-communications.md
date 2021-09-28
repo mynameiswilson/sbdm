@@ -1,7 +1,7 @@
 ---
 title: "Thoughts on Making School Communications Better"
 layout: single
-date: '2021-09-27 12:00:53'
+date: '2021-09-28 12:28:53'
 categories:
 - thoughts
 tags:
