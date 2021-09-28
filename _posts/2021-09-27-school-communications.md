@@ -15,9 +15,9 @@ I wanted to distill a bit of feedback I've collected from parents regarding scho
 
 This should **not** be consider a pointed critique of our current LPAS school administration - most of these things are ongoing challenges - but with the dramatic changes over the last two years in demographics, platforms and daily life - we should take a critical eye.
 
-Why? Because I don't think I'm off base when I say that communicating with parents is a challenge and will remain a challenge - through cross country I've seen just how hard it is to get a parent's attention! (woof!) But also how much it improves a student's experience and outcome to have an involved family. 
+Why? Because I don't think I'm off base when I say that communicating with parents is a challenge and will remain a challenge - through cross country I've seen just how hard it is to get a parent's attention! (woof!) But also how much it improves a student's experience and achievement to have an involved family. 
 
-This will require *real work* to do, but I think it's incredibly wortwhile to family involvement and student achievement. Personally, I'm up to help however I can - _community, accessibility and communication_ is the thing I'm here for!
+This will require *real work* to do, but I think it's incredibly worthwhile to family involvement and student achievement. Personally, I'm up to help however I can - _community, accessibility and communication_ is the thing I'm here for!
 
 ## Observations ##
 
