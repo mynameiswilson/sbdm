@@ -30,6 +30,7 @@ This will require *real work* to do, but I think it's incredibly worthwhile to f
 ## Insights ##
 
 - **Consistency:** Knowing when and maybe more importantly WHERE to expect important communications is key. We're all overwhelmed by having so many communication outlets. As an example, I rely upon Noe Middle School's "Weekly" email from Mr. Gribbins. It's long, but it's consistently delivered each week at the same time (so I know when to expect it), in my email (I know where to expect it) and named clearly (so I know what to search for when I need it) and has everything I need to know for that week. I've also tried this "weekly" approach with XC and it seems to work VERY well.
+- **Scannability:** We're inundated by communications from schools (and elsewhere) on the daily. Make sure that the priority, the sender and how to respond to the communication is clear. Specific to email: subject lines and "from" labels are a requirement. For example, I get emails from two schools and the district, and only through context clues can I determine who is sending it and why.
 - **Open Platforms:** Facebook is convenient, but I know a lot of parents who are not on there, and professionally I can tell you preference for this platform is waning fast. Why? The demographics are changing. Younger parents are less likely to be on Facebook. Secondly - and because a platform it's noisy at best and predatory at worst. In my opinion, it's fine for non-critical updates or secondary notifications, but definitely not #1.
 - **Accessibility:** We should choose platforms that all can access and that are the easiest to access and control. Email or text is #1, I think. Email is a timeline that parents control, so less likely it will be lost. Text is also great, but less functional. Beyond that - I think we under-use one of the most accessible tools we have - the LPAS website!
 - **Community Q&A:** the support and conversations that platforms like Facebook allow us to have are very valuable as parents, but see the note about "Open Platforms". We don't really have a single source or an obvious path for this. Where can parents turn to for advice? Is this something the school (or the PTA) can facilitate in some way, aside from, say, a private Facebook group or Messenger group? 
@@ -37,7 +38,9 @@ This will require *real work* to do, but I think it's incredibly worthwhile to f
 
 ## Recommendations ##
 
-- I'd love to see a **consistent, weekly school-level email**. Yes it will take some time to edit and teachers will communicate with their classes how they choose - but this would be consistent. The WOW folders and the PTA newsletter we used to do was incredibly helpful. (PS - the PTA recently put together a school-wide Google Calendar and I am _so_ happy for that.)
+- I'd love to see a **consistent, weekly school-level emails**. Yes it will take some time to edit and teachers will communicate with their classes how they choose - but this would be consistent. The WOW folders and the PTA newsletter we used to do was incredibly helpful. (PS - the PTA recently put together a school-wide Google Calendar and I am _so_ happy for that.)
+
+- And while we're talking about emails: **clearly label emails with the school name, sender name and how to respond**
 
 - I think **using the website as "the main source" might be helpful**. Everyone can access it, and if we consistently refer people to it, it will become a habit. (Note: The LPAS website URL is too long to easily remember - but *I see that lpaslou.com is available*, and it could be cheaply purchased and redirected to http://lincoln.jefferson.kyschools.us/ (I can help there!)
 
