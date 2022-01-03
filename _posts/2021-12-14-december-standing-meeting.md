@@ -27,6 +27,10 @@ My notes here are brief as we are back to being in-person. See the agendas and [
 
 #### The LPAS CSIP has arrived! ####
 
+The CSIP is the "[Comprehensive School Improvement Plan](https://www.jefferson.kyschools.us/data-management-planning-and-program-evaluation-division/planning-and-program-evaluation/cdipcsip)" - and one is created each year for every JCPS school.
+
+The CSIP for LPAS has just been released, and you can read it [here](https://drive.google.com/drive/folders/1WuwH8s6S3EoX8_r793HpFwyx6n2GrgMB).
+
 - Writing and Reading are two areas (especially among Black and Hispanic students) where LPAS needs most improvement.
 
 - As a part of CSIP and professional development: LPAS is implementing some aspects of the "Jennifer Serravallo Writing Strategies" plan and "Jan Richardson model for effective reading strategies". Both of which are district-level initiatives. In addition, trauma-informed care.
