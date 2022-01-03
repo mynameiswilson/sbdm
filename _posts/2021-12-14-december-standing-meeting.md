@@ -6,7 +6,7 @@ categories:
 - meetingnotes
 tags:
 - sbdm
-excerpt: "SBDM Standing Meetings for December 2021"
+excerpt: "SBDM Standing Meeting for December 2021"
 ---
 
 Hello LPAS Families and Friends! Below are my notes from December 14 2021 meeting.
