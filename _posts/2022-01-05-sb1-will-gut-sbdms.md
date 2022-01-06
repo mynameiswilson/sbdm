@@ -33,9 +33,9 @@ SB1, a GOP-backed bill, will do away with any real* school-level control over ch
 
 ![SB1 Proposed Curriculum Statute](/sbdm/assets/images/SB1-2022-curriculum.png)
 
-This revision would take the power of setting local curriculum out of the hands of the local SBDM. While on it's face, this may seem like an OK thing - to allow for sweeping control from the superintendent, it in fact and practice removes teachers and parents voices from the conversation. Here's how:
+This revision would take the power of setting local curriculum out of the hands of the local SBDM. While on it's face, this may seem like a "good idea" - to allow for sweeping control from the superintendent - it in fact and in practice removes teachers and parents voices from the conversation. Here's how:
 
-In my limited SBDM experience with our school, our council often takes the lead from the district - but we have the *ability* to set our own policies and curriculum, if we so choose. This is critical for a broad, diverse school system like JCPS. Schools vary widely in terms of student achievement needs - and demographically as well. The OPTION to choose our curriculum benefits the school. 
+In my limited SBDM experience with our school, our council often takes the lead from the district - but we have the *ability* to set our own policies and curriculum, if we so choose. It's a conversation. This is critical for a broad, diverse school system like JCPS, and critical for each school. Schools vary widely in terms of student achievement needs - and demographically as well. The OPTION to choose our curriculum benefits the school. 
 
 So if in practice, this system appears to work well (there aren't too many rogue SBDM councils out there) - what's the need for legislation? 
 
