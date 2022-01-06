@@ -51,11 +51,9 @@ So, perhaps not - the core of these changes predate the CRT hysteria.
 
 *But* it's hard not to note that the first bill (SB1) of the 2022 Kentucky General Assembly is not Mayfield tornado relief or pandemic funding - but a bill that removes a critical, *local* roadblock to districts having complete control over principals and curriculum in all schools. 
 
-Without these local-control "roadblocks", the GOP can drive forward [two extremely dangerous anti-"CRT" bills](https://twitter.com/oliviakrauth/status/1478564293780160513?s=20) that are also on the docket for this legislative session. 
+Without these local-control "roadblocks", the GOP has the runway to effect their anti-"critical race theory" agenda, assuming they have control of the superintendent (who is appointed by the school board). They are most certainly coming for the school boards next - and yes, there are [two extremely dangerous anti-"CRT" bills](https://twitter.com/oliviakrauth/status/1478564293780160513?s=20) on the docket for this legislative session. 
 
 If SBDMs can't set curriculum and the district is led by a fearmongering anti-"CRT" goon - then it's game over. Complete, top-down control of curriculum and principals.
-
-The JCTA, the largest teacher's union in Kentucky has seen this coming. In 2019, they protested the principal-selection-power-stripping bill "in the event that an unfavorable leader takes power." 
 
 Before, now, and in the future - teachers and parents should have at least a voice in principals and curriculum at their schools. This bill will remove that.
 
