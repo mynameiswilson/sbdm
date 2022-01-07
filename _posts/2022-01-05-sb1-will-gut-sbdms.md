@@ -25,9 +25,7 @@ There is already a statute, adopted in 2016, for an ["alternative process" to al
 
 Under those two statutes, we selected a LPAS' new principal in late 2020. The process worked very well. We were provided a number of candidates from Superintendent Pollio, we "interviewed" them, voted and provided our recommendation back to Dr. Pollio, and he approved.
 
-SB1, a GOP-backed bill, will do away with any real* school-level control over choosing principals, state-wide.
-
-* - But wait, there's more: if my reading is correct - this SB1 makes consultation with SBDM councils optional, or up to the district school board)
+SB1, a GOP-backed bill, will do away with any real school-level control over choosing principals, state-wide. If my reading is correct - this SB1 makes consultation with SBDM councils optional, or up to the district school board.
 
 ### Curriculum decisions will be made by the superintendent at the district level. ###
 
