@@ -23,7 +23,7 @@ This was already the case in Jefferson County, thanks to a [2019 bill signed by 
 
 There is already a statute, adopted in 2016, for an ["alternative process" to allow superintendents to recommend principals](https://www.wdrb.com/news/gov-bevin-signs-law-giving-jcps-superintendent-more-flexibility-in-hiring-principals/article_405f298f-e16a-59b0-abe9-1a3cae78716c.html). This statute was bi-partisan, as was accepted by then-Superintendent Donna Hargens. 
 
-Under those two statutes, we selected a LPAS' new principal in late 2020. The process worked very well. We were provided three candidates from Superintendent Pollio, we "interviewed" them, voted and provided our recommendation back to Dr. Pollio, and he approved.
+Under those two statutes, we selected a LPAS' new principal in late 2020. The process worked very well. We were provided a number of candidates from Superintendent Pollio, we "interviewed" them, voted and provided our recommendation back to Dr. Pollio, and he approved.
 
 SB1, a GOP-backed bill, will do away with any real* school-level control over choosing principals, state-wide.
 
