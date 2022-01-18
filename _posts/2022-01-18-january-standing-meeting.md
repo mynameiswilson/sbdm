@@ -6,7 +6,7 @@ categories:
 - meetingnotes
 tags:
 - sbdm
-excerpt: "SBDM Standing Meeting for January 2021"
+excerpt: "SBDM Standing Meeting for January 2021. Fall/Winter MAP scores. Starting to discuss gender equity/diversity issues, more."
 ---
 
 Hello LPAS Families and Friends! Below are my notes from December 14 2021 meeting.
@@ -29,7 +29,15 @@ My notes here are brief as we are back to being in-person. See the agendas and [
 
 - Staffing update: Our ECE position is still out there, waiting to be filled. Very few teachers available.
 
-- Student achievement: Last meeting, we heard that initial MAP scores indicated that there has been considerable growth since last year, notably in reading. However... our [Fall 2021-Winter 2022 MAP report](https://drive.google.com/file/d/1Jv-0z4FOIbjVNEHF1ydG04-9tKlmN8Fu/view?usp=sharing) indicated that it was not quite the growth we expected. Overall we saw growth in both areas - but we didn't reach our reading goals 1st thru 4th grade, but did hit them for math goals K-5.
+- Student achievement: Last meeting, we heard that initial MAP scores indicated that there has been considerable growth since last year, notably in reading. However... our [Fall 2021-Winter 2022 MAP report](https://drive.google.com/file/d/1Jv-0z4FOIbjVNEHF1ydG04-9tKlmN8Fu/view?usp=sharing) indicated that it was not quite the growth we expected. Overall we saw growth in both areas - but we didn't reach our reading goals 1st thru 4th grade, but did hit them for math goals K-5. 
+
+![LPAS Fall2021Winter2022 MAP Summary - READING](/sbdm/assets/images/LPAS Fall2021Winter2022 MAP - READING.png)
+
+![LPAS Fall2021Winter2022 MAP Summary - MATH](/sbdm/assets/images/LPAS Fall2021Winter2022 MAP - MATH.png)
+
+For the above: if the purple bar is above the orange diamond, we outperformed our expected growth. If it's below, we didn't (though we still showed growth). See [Fall 2021-Winter 2022 MAP report](https://drive.google.com/file/d/1Jv-0z4FOIbjVNEHF1ydG04-9tKlmN8Fu/view?usp=sharing) for more details.
+
+Teachers use this sort of growth rate data to adjust their lesson plans - which are tailored to their class, but which should be aligned with [LPAS' Comprehensive School Improvement Plan (CSIP)](https://benwilson.org/sbdm/meetingnotes/december-standing-meeting/#the-lpas-csip-has-arrived) goals. 
 
 - Budget Stuff: We were previously using general fund money to up our Kindergarten team allocaton from 3 1/2 people to 4, but we were given 4 by JCPS, so we can effectively "sell" that extra .5. (Both a teacher and an instructional assistant)
 
@@ -38,6 +46,8 @@ My notes here are brief as we are back to being in-person. See the agendas and [
 *[Student & Family Resources](https://docs.google.com/document/d/1B7AqE-mOSJvbYi69-NQtT67hZHKT0N0xsJZ59Aa23lc/edit?usp=sharing)*. We determined that the FRSC committee established by this policy exists, but not necessarily under the SBDM. The admin team is working on clarifying this.
 
 *[Diversity & Equity](https://docs.google.com/document/d/1CYB4ToVTk-edqcvMiMKCydEiNIyHc-LTjIWljPCxR9I/edit?usp=sharing)*
+
+An important policy for one of the most diverse elementary schools in the district. We discussed a lot, but the big win for me today was this:
 
 Our current policy covers the basics that "we will ensure that each and every student":
 * Is able to achieve at high academic levels.
