@@ -37,7 +37,7 @@ My notes here are brief as we are back to being in-person. See the agendas and [
 
 For the above: if the purple bar is above the orange diamond, we outperformed our expected growth. If it's below, we didn't (though we still showed growth). See [Fall 2021-Winter 2022 MAP report](https://drive.google.com/file/d/1Jv-0z4FOIbjVNEHF1ydG04-9tKlmN8Fu/view?usp=sharing) for more details.
 
-Teachers use this sort of growth rate data to adjust their lesson plans - which are tailored to their class, but which should be aligned with [LPAS' Comprehensive School Improvement Plan (CSIP)](https://benwilson.org/sbdm/meetingnotes/december-standing-meeting/#the-lpas-csip-has-arrived) goals. 
+Teachers use this sort of growth rate data to adjust their lesson plans - which are tailored to their class, but which should be aligned with [LPAS' Comprehensive School Improvement Plan (CSIP)](https://benwilson.org/sbdm/meetingnotes/december-standing-meeting/#the-lpas-csip-has-arrived) goals. Personally, I know teachers really appreciate and use MAP scores (versus, say, KPREP) so we'll be seeing the impact soon, I'm sure. Also: Ms. Case indicated she is a "huge nerd about this sort of stuff".
 
 - Budget Stuff: We were previously using general fund money to up our Kindergarten team allocaton from 3 1/2 people to 4, but we were given 4 by JCPS, so we can effectively "sell" that extra .5. (Both a teacher and an instructional assistant)
 
