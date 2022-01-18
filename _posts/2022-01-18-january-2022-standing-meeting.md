@@ -1,5 +1,5 @@
 ---
-title: "SBDM Meeting Notes: January 2021"
+title: "SBDM Meeting Notes: January 2022"
 layout: single
 date: '2022-01-18 12:00:53'
 categories:
