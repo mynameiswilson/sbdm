@@ -62,9 +62,11 @@ That said. I do know the basis of *any* action we should take should be on fact 
 
 1. The [facts](https://www.thetrevorproject.org/survey-2021/?section=SuicideMentalHealth) state that queer and gender non-conforming students are a vulnerable population that should be represented in some way in under Diversty & Equity. **We should include "sexual orientation" and "gender identity" as a consideration in this policy.**
 
-2. I would like to know if the school knows how many LGBTQ students there are within the school. We understand our student population well by gender, ethnicity, race and disability. The D&E policy itself calls for an *annual review of data "disaggregated by gender, ethnicity, socioeconomic status, and disability" - but not by sexual orientation or gender identity. **I am considering asking for this.**
+2. How well do we understand the LGBTQ community in the school? The D&E policy itself calls for an *annual review of data "disaggregated by gender, ethnicity, socioeconomic status, and disability"* - but not by sexual orientation or gender identity. However, this is an incredibly sensitive space - as a friend of mine put it: *"Unlike more obvious/surface demographic information, the ability to come out OR NOT is a huge point of control for queer youth, perhaps their only one. How do you reliably know what your queer youth population is when many members of it are unable to come out because of legitimate fears? How do you ask? (You shouldn't.)"*.  **So: do we currently offer a space where families (or students) can offer this about themselves, should they choose? And how do we use that information to promote that student's achievement?**
 
-Once we have those two things - **recognition** and **visibility**, then we can take action.
+**(UPDATE 2/18/2022: Some wonderful feedback from a friend, regarding privacy and control has altered my perspective here for #2)**
+
+Once we have those two things - **recognition** and **understanding**, then we can take action.
 
 ## What have other schools done? ##
 
