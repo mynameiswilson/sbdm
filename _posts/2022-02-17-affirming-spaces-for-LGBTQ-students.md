@@ -10,6 +10,8 @@ tags:
 excerpt: "We have moved so far in recent years to create racially, culturally and socio-economic affirming spaces in our schools. This happened through study, initiative and policy. We should do the same for LGBTQ students as well."
 ---
 
+_UPDATE 2/23/2021: read [Equity & Diversity Policy Recommendations for LGBTQIA+ Students](https://benwilson.org/sbdm/policy/equity-diversity-policy-recommendations-lgbtqia-students/) for the results of family feedback._
+
 Queer and [gender non-conforming](https://www.hrc.org/resources/glossary-of-terms) issues have been on my mind a lot in the past few years. My daughter and her friends have moved into middle school, become very aware of sexual identity and gender issues and empirically speaking I'm hearing from and about more students who identify in this population at LPAS. In addition, the public conversation around LGBTQ kids - especially (and perhaps regrettably) around sports - has reached a historic and fevered peak.
 
 This has made me consider what place schools have in this. Having known (and coached) a number of queer and gender non-conforming students in my 8(!) years at LPAS, I've seen that for many students this can be a struggle in a world that barely recognizes their "non-conformity" as real or valid. And school is the world for young people. 
