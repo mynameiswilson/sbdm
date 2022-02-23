@@ -14,7 +14,7 @@ _NOTE: This post is an update to [How can we make our school an ‘affirming spa
 
 
 ## Background ##
-After hearing varied experiences of LGBTQ families at LPAS and JCPS, I conducted an informal survey. This consisted of interviews of 8 self-selected current and former LPAS families with LGBTQ identifying students. Below is a summary of their understanding, experiences, priorities and recommendations on how we can better support them.
+After hearing varied experiences of LGBTQIA+ families at LPAS and JCPS, I conducted an informal survey. This consisted of interviews of 8 self-selected current and former LPAS families with LGBTQIA+-identifying students. Below is a summary of their understanding, experiences, priorities and recommendations on how we can better support them.
 
 ## Summary ##
 ### We understand that: ###
