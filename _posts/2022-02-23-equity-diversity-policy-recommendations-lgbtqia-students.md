@@ -10,7 +10,7 @@ tags:
 excerpt: "After interviewing half a dozen current and former LPAS families with LGBTQ students, here's what I found, and what I'm recommending to our council."
 ---
 
-NOTE: This post is an update to [How can we make our school an ‘affirming space’ for LGBTQ students?](https://benwilson.org/sbdm/policy/affirming-spaces-for-LGBTQ-students/)
+_NOTE: This post is an update to [How can we make our school an ‘affirming space’ for LGBTQ students?](https://benwilson.org/sbdm/policy/affirming-spaces-for-LGBTQ-students/)_
 
 
 ## Background ##
