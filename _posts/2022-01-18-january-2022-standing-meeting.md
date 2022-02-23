@@ -6,10 +6,10 @@ categories:
 - meetingnotes
 tags:
 - sbdm
-excerpt: "SBDM Standing Meeting for January 2021. Fall/Winter MAP scores. Starting to discuss gender equity/diversity issues, more."
+excerpt: "SBDM Standing Meeting for January 2022. Fall/Winter MAP scores. Starting to discuss gender equity/diversity issues, more."
 ---
 
-Hello LPAS Families and Friends! Below are my notes from December 14 2021 meeting.
+Hello LPAS Families and Friends! Below are my notes from January 18 2022 meeting.
 
 My notes here are brief as we are back to being in-person. See the agendas and [official minutes](https://sppublic.jefferson.kyschools.us/sbdm/SitePages/Home.aspx) for more details.
 
