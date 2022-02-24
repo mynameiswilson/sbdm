@@ -37,7 +37,7 @@ Her child is in 5th grade, for whom she is speaking on behalf of today - in supp
 
 #### _Current LPAS Parent + Former LPAS Student_ ####
 
-This parent of a current student and a former student, who is trans, addressed the council. The former student called attention to a number of points that could make school more of an affirming space. Name changing on school records. Teachers asking what they preferred to be called. He says "That's important for trans kids." In their experience in middle school, they  "have had problems in bathrooms with other students". "[Teachers and staff should let] other students know that this is OK. They are both seek "affirmation". 
+This parent of a current student and a former student, who is trans, addressed the council. The former student called attention to a number of points that could make school more of an affirming space. Name changing on school records. Teachers asking what they preferred to be called. He says "That's important for trans kids." In their experience in middle school, they  "have had problems in bathrooms with other students". "[Teachers and staff should let] other students know that this is OK. They are both seeking "affirmation". 
 
 #### _Jamie Sanchez_ ####
 
