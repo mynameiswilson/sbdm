@@ -35,9 +35,9 @@ We had a number of folks attend today's meeting to address the council on the to
 
 Her child is in 5th grade, for whom she is speaking on behalf of today - in support of including LGBTQIA into Equity and Diversity. Experience at LPAS has been wonderful and supportive. "It's a big time right now in their life". Gender expression is important for these students. Every aspect of the typical, gendered school day presents challenges to these students, from bathrooms to how gender is addressed. Small things like saying "Hey students" instead of "boys & girls". Or, perhaps "Hey party people". Goal for Elena and Ellie is "warm, welcoming, safe space".
 
-#### _Mike & Blue Snowden, Parent and Former Student_ ####
+#### _Mike Snowden + Child, Parent and Former LPAS Student_ ####
 
-Mike is a parent of a current studeent (Louisa) and a former student (Blue), who is trans. Blue called attention to a number of points that could make school more of an affirming space. Name changing on school records. Teachers asking what they preferred to be called. He says "That's important for trans kids." In their experience in middle school, they  "have had problems in bathrooms with other students". "[Teachers and staff should let] other students know that this is OK. They are both seek "affirmation". 
+Mike is a parent of a current student and a former student, who is trans. His child called attention to a number of points that could make school more of an affirming space. Name changing on school records. Teachers asking what they preferred to be called. He says "That's important for trans kids." In their experience in middle school, they  "have had problems in bathrooms with other students". "[Teachers and staff should let] other students know that this is OK. They are both seek "affirmation". 
 
 #### _Jamie Sanchez_ ####
 
