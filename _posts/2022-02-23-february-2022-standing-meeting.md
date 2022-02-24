@@ -6,7 +6,7 @@ categories:
 - meetingnotes
 tags:
 - sbdm
-excerpt: "SBDM Standing Meeting for February 2022. Including LGBTQIA into Equity and Diversity,"
+excerpt: "SBDM Standing Meeting for February 2022. Including LGBTQIA-focused Equity and Diversity, staffing, budgets, more."
 ---
 
 Hello LPAS Families and Friends! Below are my notes from February 23 2022 meeting.
