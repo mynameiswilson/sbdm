@@ -29,11 +29,11 @@ There were two major points of feedback, which we've adopted:
 
 ### "In a nutshell, they may want to include language that ensure that all policies are reviewed through the lens of their vulnerable LBGTQIA population." ###
 
-We've done that, clarifying prior language regarding the perspectives through which we see our community and how we apply these in policy and action. And I've codified these perspectives in an open-ended list of what I've termed "inherit attributes". 
+We've done that, clarifying prior language regarding the perspectives through which we see our community and how we apply these in policy and action. And I've codified these perspectives in an open-ended list of what I've termed "inherent attributes". 
 
 Here's the new language:
 
-> We understand that each student has a unique mix of inherit attributes, and that to fulfill our commitment, we will consider this diversity in all actions and policies created or reviewed, giving special consideration to demonstrably vulnerable populations. These inherit attributes include, but are not limited to: gender, ethnicity, socioeconomic status, disability, sexual orientation and gender identity. 
+> We understand that each student has a unique mix of inherent attributes, and that to fulfill our commitment, we will consider this diversity in all actions and policies created or reviewed, giving special consideration to demonstrably vulnerable populations. These inherent attributes include, but are not limited to: gender, ethnicity, socioeconomic status, disability, sexual orientation and gender identity. 
 
 ### Ad-Hoc versus Standing Committee ###
 
@@ -50,7 +50,7 @@ If I had to summarize what we're trying to do with this policy update, it's this
 
 In regards to Equity and Diversity, we already recognize many attributes of our student population: gender, ethnicity, socioeconomic status, disability. These are the lenses through which we are committed to seeing our students and families. In the case of student groups where we have considerable work to do, like race, we have specific commitees and tools.
 
-Despite district-wide [Equal Education Opportunity policies](https://policy.ksba.org/Chapter.aspx?distid=56) and an active [Diversity, Equity and Poverty](https://www.jefferson.kyschools.us/department/diversity-equity-and-poverty-programs-division) group within JCPS that both identify sexual orientation and gender identity, SBDMs have never officially recognized these inherit attributes in Equity and Diversity policy. But these families and students are here - at every grade level, and we're tasked with providing them equal opportunity. 
+Despite district-wide [Equal Education Opportunity policies](https://policy.ksba.org/Chapter.aspx?distid=56) and an active [Diversity, Equity and Poverty](https://www.jefferson.kyschools.us/department/diversity-equity-and-poverty-programs-division) group within JCPS that both identify sexual orientation and gender identity, SBDMs have never officially recognized these inherent attributes in Equity and Diversity policy. But these families and students are here - at every grade level, and we're tasked with providing them equal opportunity. 
 
 In 2017, a handful of schools (Atherton High School, Meyzeek Middle, maybe others) adopted inclusive policies - but by using SBDM's authority over "Use of School Space" and the District's _Equal Education Opportunity_ policy to do so. You can read [Atherton's policy here.](/sbdm/assets/Atherton High School Policy Restroom.pdf)) These policies were groundbreaking when adopted in 2017, but they feel like stopgaps now, considering JCPS's commitment to Diversity, Equity and Poverty. It's time that these "demonstably vulnerable" communities were recognized at a higher level, and given more careful, consistent consideration.
 
@@ -68,9 +68,9 @@ By factoring sexual orientation and gender identity into Equity & Diversity, cod
 ### 2. Be Clear About What Diversity Means, And What We'll Do With That ###
 "Inclusive" is a term that you'll often hear when speaking about equity, diversity or LGBTQIA issues. The approach that I've taken is to include sexual orientation and gender identity in the list of attributes our SBDM Council should consider in all actions. 
 
-I've codified this into a commitment with and open-ended list of what I've termed "inherit attributes": 
+I've codified this into a commitment with and open-ended list of what I've termed "inherent attributes": 
 
-> We understand that each student has a unique mix of inherit attributes, and that to fulfill our commitment, we will consider this diversity in all actions and policies created or reviewed, giving special consideration to demonstrably vulnerable populations. These inherit attributes include, but are not limited to: gender, ethnicity, socioeconomic status, disability, sexual orientation and gender identity. 
+> We understand that each student has a unique mix of inherent attributes, and that to fulfill our commitment, we will consider this diversity in all actions and policies created or reviewed, giving special consideration to demonstrably vulnerable populations. These inherent attributes include, but are not limited to: gender, ethnicity, socioeconomic status, disability, sexual orientation and gender identity. 
 
 ### 3. Have A Ready Team ###
 Consistency throughout the school experience is necessary for LGBTQIA families and students. Sexual orientation and gender identity, unlike race, are things that emerge and mature through a student's school experience. These changes can be disorienting and ostracizing. 
