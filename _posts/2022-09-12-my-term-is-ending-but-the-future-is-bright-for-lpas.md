@@ -6,7 +6,7 @@ categories:
 - reflection
 tags:
 - LPAS
-excerpt: "A reflection on my time as SBDM parent representative for LPAS (2020-2022)"
+excerpt: "A reflection on my time as SBDM parent representative for LPAS (2020-2022). Where we were, where we are going, what we achieved."
 ---
 
 This month will be my final month as one of two parent representatives for LPAS' SBDM council. 
